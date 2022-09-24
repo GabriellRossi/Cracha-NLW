@@ -11,7 +11,7 @@
 <br>
 
 <p align="center">
-  <img alt="" src=".github/preview.png" width="50%">
+  <img alt="" src=".github/preview.png" width="80%">
 </p>
 
 <br>
