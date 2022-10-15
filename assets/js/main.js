@@ -1,7 +1,7 @@
 const LinksSocialMedia = {
   github: 'GabriellRossi',
   youtube: 'maykbrito',
-  instagram: 'rossi_digital',
+  instagram: 'gr__rossi',
   facebook: 'GBLRossi',
   twitter: 'Gabriel__Rossi1',
   linkedin: 'gabriellrossi'
